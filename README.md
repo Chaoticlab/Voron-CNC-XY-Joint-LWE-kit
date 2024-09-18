@@ -1,5 +1,5 @@
 # Introduction
-The ChaoticLab oron-CNC-XY-Joint-LWE-kit is an ultra lightweight XY Joint designed for Voron2.4/Trident, Featuring Ultra strong AL7075 T6 Aluminum with Honeycomb Lightweight design,  premium NSK bearings,and TC4 Titanium screws, to give you the ultimate Highspeed performance
+The ChaoticLab Voron-CNC-XY-Joint-LWE-kit is an ultra lightweight XY Joint designed for Voron2.4/Trident, Featuring Ultra strong AL7075 T6 Aluminum with Honeycomb Lightweight design,  premium NSK bearings,and TC4 Titanium screws, to give you the ultimate Highspeed performance
 
 
 
